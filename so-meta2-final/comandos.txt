@@ -1,0 +1,40 @@
+
+DEPARTURE TP440 init: 0 takeoff: 100
+DEPARTURE TP30 init: 15 takeoff: 20
+DEPARTURE TP242 init: 17 takeoff: 30
+DEPARTURE TP111 init: 16 takeoff: 29
+DEPARTURE TP222 init: 17 takeoff: 31
+DEPARTURE TP333 init: 18 takeoff: 32
+DEPARTURE TP444 init: 19 takeoff: 33
+
+DEPARTURE TP203 init: 20 takeoff: 32
+DEPARTURE TP223 init: 35 takeoff: 40
+DEPARTURE TP33 init: 60 takeoff: 80
+DEPARTURE TP84 init: 70 takeoff: 120
+DEPARTURE TP778 init: 120 takeoff: 130
+DEPARTURE TP93 init: 121 takeoff: 131
+DEPARTURE TP313 init: 123 takeoff: 140
+DEPARTURE TP313 init: 220 takeoff: 230
+DEPARTURE TP89 init: 320 takeoff: 800
+
+
+ARRIVAL TP437 init: 0 eta: 100 fuel: 1000
+ARRIVAL TP022 init: 10 eta: 20 fuel: 150
+ARRIVAL TP20 init: 10 eta: 22 fuel: 2500
+ARRIVAL TP38 init: 15 eta: 10 fuel: 4500
+ARRIVAL TP450 init: 30 eta: 10 fuel: 153
+ARRIVAL TP458 init: 50 eta: 10 fuel: 1540
+ARRIVAL TP902 init: 70 eta: 100 fuel: 1550
+ARRIVAL TP345 init: 170 eta: 40 fuel: 50
+ARRIVAL TP30 init: 200 eta: 10 fuel: 120
+ARRIVAL TP50 init: 205 eta: 10 fuel: 1200
+ARRIVAL TP343 init: 210 eta: 5 fuel: 1200
+ARRIVAL TP943 init: 203 eta: 5 fuel: 1200
+ARRIVAL TP203 init: 208 eta: 25 fuel: 1200
+ARRIVAL TP888 init: 218 eta: 12 fuel: 1200
+
+
+
+cd Dropbox/Aplicativos/NONIO-Inforestudante/Licenciatura\ em\ Engenharia\ Informática/2019\ 2020/1.º\ Semestre/Sistemas\ Operativos/projeto-aeroporto/
+
+kill -USR1 1165

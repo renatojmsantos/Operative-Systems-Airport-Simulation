@@ -1,0 +1,336 @@
+08/12/2019   19:46:48 -> Inicio do programa
+08/12/2019   19:46:48 -> [1140] Gestor de Simulacao pronto! 
+08/12/2019   19:46:48 -> [1144] Torre de Controlo Ativa! 
+08/12/2019   19:46:50 -> NEW COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+
+08/12/2019   19:46:50 -> NEW COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+
+08/12/2019   19:46:50 -> NEW COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+
+08/12/2019   19:46:52 -> TP30 DEPARTURE started
+08/12/2019   19:46:52 -> TP100 DEPARTURE started
+08/12/2019   19:46:53 -> TP555 DEPARTURE started
+08/12/2019   19:46:57 -> TP30 DEPARTURE CONCLUDED
+08/12/2019   19:46:59 -> TP100 DEPARTURE CONCLUDED
+08/12/2019   19:47:00 -> TP555 DEPARTURE CONCLUDED
+08/12/2019   19:47:39 -> Fim do programa
+08/12/2019   19:47:39 -> Fim do programa
+08/12/2019   19:47:58 -> Inicio do programa
+08/12/2019   19:47:58 -> [1150] Gestor de Simulacao pronto! 
+08/12/2019   19:47:58 -> [1154] Torre de Controlo Ativa! 
+08/12/2019   19:47:59 -> NEW COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+
+08/12/2019   19:47:59 -> NEW COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+
+08/12/2019   19:48:00 -> NEW COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+
+08/12/2019   19:48:01 -> TP30 DEPARTURE started
+08/12/2019   19:48:02 -> TP100 DEPARTURE started
+08/12/2019   19:48:03 -> TP555 DEPARTURE started
+08/12/2019   19:48:11 -> TP30 DEPARTURE CONCLUDED
+08/12/2019   19:48:12 -> TP100 DEPARTURE CONCLUDED
+08/12/2019   19:48:13 -> TP555 DEPARTURE CONCLUDED
+08/12/2019   19:48:31 -> Fim do programa
+08/12/2019   19:48:31 -> Fim do programa
+08/12/2019   19:48:42 -> Inicio do programa
+08/12/2019   19:48:42 -> [1160] Gestor de Simulacao pronto! 
+08/12/2019   19:48:42 -> [1164] Torre de Controlo Ativa! 
+08/12/2019   19:48:45 -> NEW COMMAND  ==>  ARRIVAL TP022 init: 8 eta: 10 fuel: 150
+
+08/12/2019   19:48:45 -> NEW COMMAND  ==>  ARRIVAL TP333 init: 5 eta: 10 fuel: 30
+
+
+08/12/2019   19:48:45 -> NEW COMMAND  ==>  ARRIVAL TP444 init: 7 eta: 10 fuel: 150
+
+08/12/2019   19:48:46 -> TP333 ARRIVAL started
+08/12/2019   19:48:47 -> TP444 ARRIVAL started
+08/12/2019   19:48:48 -> TP022 ARRIVAL started
+08/12/2019   19:48:56 -> TP333 ARRIVAL conclued
+08/12/2019   19:48:58 -> TP444 ARRIVAL conclued
+08/12/2019   19:48:58 -> TP022 ARRIVAL conclued
+08/12/2019   19:51:59 -> Inicio do programa
+08/12/2019   19:51:59 -> [1177] Gestor de Simulacao pronto! 
+08/12/2019   19:51:59 -> [1181] Torre de Controlo Ativa! 
+08/12/2019   19:52:24 -> Fim do programa
+08/12/2019   19:52:34 -> Inicio do programa
+08/12/2019   19:52:34 -> [1183] Gestor de Simulacao pronto! 
+08/12/2019   19:52:34 -> [1187] Torre de Controlo Ativa! 
+08/12/2019   19:53:08 -> WRONG COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+
+08/12/2019   19:53:08 -> WRONG COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+
+08/12/2019   19:53:08 -> WRONG COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+
+08/12/2019   19:53:13 ->  ARRIVAL conclued
+08/12/2019   19:53:18 -> Fim do programa
+08/12/2019   19:53:18 -> Fim do programa
+08/12/2019   19:53:21 -> Inicio do programa
+08/12/2019   19:53:21 -> [1193] Gestor de Simulacao pronto! 
+08/12/2019   19:53:21 -> [1197] Torre de Controlo Ativa! 
+08/12/2019   19:53:23 -> NEW COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+
+08/12/2019   19:53:23 -> NEW COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+
+08/12/2019   19:53:23 -> NEW COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+
+08/12/2019   19:53:25 -> TP30 DEPARTURE started
+08/12/2019   19:53:25 -> TP100 DEPARTURE started
+08/12/2019   19:53:26 -> TP555 DEPARTURE started
+08/12/2019   19:53:34 -> TP30 DEPARTURE CONCLUDED
+08/12/2019   19:53:37 -> TP100 DEPARTURE CONCLUDED
+08/12/2019   19:53:37 -> TP555 DEPARTURE CONCLUDED
+08/12/2019   19:54:13 -> Fim do programa
+08/12/2019   19:54:13 -> Fim do programa
+08/12/2019   20:27:18 -> Inicio do programa
+08/12/2019   20:27:18 -> [1303] Gestor de Simulacao pronto! 
+08/12/2019   20:27:18 -> [1307] Torre de Controlo Ativa! 
+08/12/2019   20:27:25 -> WRONG COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+
+08/12/2019   20:27:25 -> WRONG COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+
+08/12/2019   20:27:25 -> WRONG COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+
+08/12/2019   20:27:29 -> WRONG COMMAND  ==>  ARRIVAL TP022 init: 8 eta: 10 fuel: 150
+
+08/12/2019   20:27:29 -> WRONG COMMAND  ==>  ARRIVAL TP333 init: 5 eta: 10 fuel: 30
+
+
+08/12/2019   20:27:29 -> WRONG COMMAND  ==>  ARRIVAL TP444 init: 7 eta: 10 fuel: 150
+
+08/12/2019   20:27:32 -> Fim do programa
+08/12/2019   20:27:32 -> Fim do programa
+08/12/2019   20:27:36 -> Inicio do programa
+08/12/2019   20:27:36 -> [1317] Gestor de Simulacao pronto! 
+08/12/2019   20:27:36 -> [1321] Torre de Controlo Ativa! 
+08/12/2019   20:27:37 -> NEW COMMAND  ==>  ARRIVAL TP022 init: 8 eta: 10 fuel: 150
+
+08/12/2019   20:27:37 -> NEW COMMAND  ==>  ARRIVAL TP333 init: 5 eta: 10 fuel: 30
+
+
+08/12/2019   20:27:37 -> NEW COMMAND  ==>  ARRIVAL TP444 init: 7 eta: 10 fuel: 150
+
+08/12/2019   20:27:40 -> TP333 ARRIVAL started
+08/12/2019   20:27:41 -> TP444 ARRIVAL started
+08/12/2019   20:27:42 -> TP022 ARRIVAL started
+08/12/2019   20:27:50 -> TP333 ARRIVAL concluded Pista C1
+08/12/2019   20:27:51 -> TP444 ARRIVAL concluded Pista C2
+08/12/2019   20:29:14 -> Fim do programa
+08/12/2019   20:29:14 -> Fim do programa
+08/12/2019   20:29:48 -> Inicio do programa
+08/12/2019   20:29:48 -> [1327] Gestor de Simulacao pronto! 
+08/12/2019   20:29:48 -> [1331] Torre de Controlo Ativa! 
+08/12/2019   20:29:49 -> Fim do programa
+08/12/2019   20:29:49 -> Fim do programa
+08/12/2019   20:42:54 -> Inicio do programa
+08/12/2019   20:42:54 -> [1369] Gestor de Simulacao pronto! 
+08/12/2019   20:42:54 -> [1373] Torre de Controlo Ativa! 
+08/12/2019   20:42:59 -> WRONG COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+
+08/12/2019   20:42:59 -> WRONG COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+
+08/12/2019   20:43:00 -> NEW COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+
+08/12/2019   20:43:02 -> Fim do programa
+08/12/2019   20:51:09 -> Inicio do programa
+08/12/2019   20:51:09 -> [0717] Gestor de Simulacao pronto! 
+08/12/2019   20:51:09 -> [0720] Torre de Controlo Ativa! 
+08/12/2019   20:51:11 -> Fim do programa
+08/12/2019   20:51:11 -> Fim do programa
+08/12/2019   20:53:21 -> Inicio do programa
+08/12/2019   20:53:21 -> [0733] Gestor de Simulacao pronto! 
+08/12/2019   20:53:21 -> [0737] Torre de Controlo Ativa! 
+08/12/2019   20:53:24 -> NEW COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+
+08/12/2019   20:53:25 -> NEW COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+
+08/12/2019   20:53:25 -> NEW COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+
+08/12/2019   20:53:25 -> TP30 DEPARTURE started
+08/12/2019   20:53:26 -> TP100 DEPARTURE started
+08/12/2019   20:53:26 -> TP555 DEPARTURE started
+08/12/2019   20:53:34 -> TP30 DEPARTURE concluded Pista P1
+08/12/2019   20:53:37 -> TP100 ARRIVAL concluded Pista P2
+08/12/2019   21:06:50 -> Fim do programa
+08/12/2019   21:06:50 -> Fim do programa
+08/12/2019   21:06:51 -> Inicio do programa
+08/12/2019   21:06:51 -> [0768] Gestor de Simulacao pronto! 
+08/12/2019   21:06:51 -> [0772] Torre de Controlo Ativa! 
+08/12/2019   21:06:53 -> NEW COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+
+08/12/2019   21:06:53 -> NEW COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+
+08/12/2019   21:06:53 -> NEW COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+
+08/12/2019   21:06:54 -> TP30 DEPARTURE started
+08/12/2019   21:06:55 -> TP100 DEPARTURE started
+08/12/2019   21:06:56 -> TP555 DEPARTURE started
+08/12/2019   21:07:04 -> TP30 DEPARTURE concluded Pista P1
+08/12/2019   21:07:06 -> TP100 ARRIVAL concluded Pista P2
+08/12/2019   21:07:41 -> Fim do programa
+08/12/2019   21:07:41 -> Fim do programa
+08/12/2019   21:29:43 -> Inicio do programa
+08/12/2019   21:29:43 -> [0810] Gestor de Simulacao pronto! 
+08/12/2019   21:29:43 -> [0814] Torre de Controlo Ativa! 
+08/12/2019   21:29:48 -> WRONG COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+
+08/12/2019   21:29:48 -> NEW COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+
+08/12/2019   21:29:48 -> NEW COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+
+08/12/2019   21:29:56 -> Fim do programa
+08/12/2019   21:29:58 -> Inicio do programa
+08/12/2019   21:29:58 -> [0820] Gestor de Simulacao pronto! 
+08/12/2019   21:29:58 -> [0824] Torre de Controlo Ativa! 
+08/12/2019   21:29:59 -> NEW COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+
+08/12/2019   21:29:59 -> NEW COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+
+08/12/2019   21:29:59 -> NEW COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+
+08/12/2019   21:30:01 -> TP30 DEPARTURE started
+08/12/2019   21:30:02 -> TP100 DEPARTURE started
+08/12/2019   21:30:03 -> TP555 DEPARTURE started
+08/12/2019   21:30:10 -> TP30 DEPARTURE concluded Pista P1
+08/12/2019   21:30:13 -> TP100 ARRIVAL concluded Pista P2
+08/12/2019   21:30:42 -> Fim do programa
+08/12/2019   21:30:42 -> Fim do programa
+08/12/2019   21:31:55 -> Inicio do programa
+08/12/2019   21:31:55 -> [0831] Gestor de Simulacao pronto! 
+08/12/2019   21:31:55 -> [0835] Torre de Controlo Ativa! 
+08/12/2019   21:31:56 -> NEW COMMAND  ==>  ARRIVAL TP022 init: 8 eta: 10 fuel: 150
+
+08/12/2019   21:31:56 -> NEW COMMAND  ==>  ARRIVAL TP333 init: 5 eta: 10 fuel: 30
+
+
+08/12/2019   21:31:57 -> NEW COMMAND  ==>  ARRIVAL TP444 init: 7 eta: 10 fuel: 150
+
+08/12/2019   21:31:57 -> NEW COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+ 150
+
+08/12/2019   21:31:57 -> NEW COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+150
+
+08/12/2019   21:31:57 -> NEW COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+150
+
+08/12/2019   21:31:59 -> TP30 DEPARTURE started
+08/12/2019   21:31:59 -> TP333 ARRIVAL started
+08/12/2019   21:31:59 -> TP100 DEPARTURE started
+08/12/2019   21:31:59 -> TP444 ARRIVAL started
+08/12/2019   21:32:00 -> TP555 DEPARTURE started
+08/12/2019   21:32:00 -> TP022 ARRIVAL started
+08/12/2019   21:32:08 -> TP30 DEPARTURE concluded Pista P1
+08/12/2019   21:32:11 -> TP555 ARRIVAL concluded Pista P2
+08/12/2019   21:32:44 -> Fim do programa
+08/12/2019   21:32:44 -> Fim do programa
+08/12/2019   21:44:17 -> Inicio do programa
+08/12/2019   21:44:17 -> [0853] Gestor de Simulacao pronto! 
+08/12/2019   21:44:17 -> [0857] Torre de Controlo Ativa! 
+08/12/2019   21:44:20 -> NEW COMMAND  ==>  ARRIVAL TP022 init: 8 eta: 10 fuel: 150
+
+08/12/2019   21:44:20 -> NEW COMMAND  ==>  ARRIVAL TP333 init: 5 eta: 10 fuel: 30
+
+
+08/12/2019   21:44:20 -> NEW COMMAND  ==>  ARRIVAL TP444 init: 7 eta: 10 fuel: 150
+
+08/12/2019   21:44:20 -> NEW COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+ 150
+
+08/12/2019   21:44:21 -> NEW COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+150
+
+08/12/2019   21:44:21 -> NEW COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+150
+
+08/12/2019   21:45:13 -> Fim do programa
+08/12/2019   21:45:13 -> Fim do programa
+08/12/2019   21:45:21 -> Inicio do programa
+08/12/2019   21:45:21 -> [0866] Gestor de Simulacao pronto! 
+08/12/2019   21:45:21 -> [0870] Torre de Controlo Ativa! 
+08/12/2019   21:45:22 -> NEW COMMAND  ==>  ARRIVAL TP022 init: 8 eta: 10 fuel: 150
+
+08/12/2019   21:45:22 -> NEW COMMAND  ==>  ARRIVAL TP333 init: 5 eta: 10 fuel: 30
+
+
+08/12/2019   21:45:22 -> NEW COMMAND  ==>  ARRIVAL TP444 init: 7 eta: 10 fuel: 150
+
+08/12/2019   21:45:22 -> NEW COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+ 150
+
+08/12/2019   21:45:22 -> NEW COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+150
+
+08/12/2019   21:45:22 -> NEW COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+150
+
+08/12/2019   21:45:24 -> TP30 DEPARTURE started
+08/12/2019   21:45:24 -> TP333 ARRIVAL started
+08/12/2019   21:45:25 -> TP100 DEPARTURE started
+08/12/2019   21:45:25 -> TP444 ARRIVAL started
+08/12/2019   21:45:26 -> TP555 DEPARTURE started
+08/12/2019   21:45:26 -> TP022 ARRIVAL started
+08/12/2019   21:45:33 -> TP30 DEPARTURE concluded Pista P1
+08/12/2019   21:45:37 -> TP100 ARRIVAL concluded Pista P2
+08/12/2019   21:47:05 -> Fim do programa
+08/12/2019   21:47:05 -> Fim do programa
+08/12/2019   21:49:05 -> Inicio do programa
+08/12/2019   21:49:05 -> [0893] Gestor de Simulacao pronto! 
+08/12/2019   21:49:05 -> [0896] Torre de Controlo Ativa! 
+08/12/2019   21:49:07 -> Fim do programa
+08/12/2019   21:49:07 -> Fim do programa
+08/12/2019   21:49:37 -> Inicio do programa
+08/12/2019   21:49:37 -> [0898] Gestor de Simulacao pronto! 
+08/12/2019   21:49:37 -> [0902] Torre de Controlo Ativa! 
+08/12/2019   21:49:40 -> NEW COMMAND  ==>  ARRIVAL TP022 init: 8 eta: 10 fuel: 150
+
+08/12/2019   21:49:40 -> NEW COMMAND  ==>  ARRIVAL TP333 init: 5 eta: 10 fuel: 30
+
+
+08/12/2019   21:49:40 -> NEW COMMAND  ==>  ARRIVAL TP444 init: 7 eta: 10 fuel: 150
+
+08/12/2019   21:49:40 -> NEW COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+ 150
+
+08/12/2019   21:49:40 -> NEW COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+150
+
+08/12/2019   21:49:40 -> NEW COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+150
+
+08/12/2019   21:49:41 -> TP30 DEPARTURE started
+08/12/2019   21:49:41 -> TP333 ARRIVAL started
+08/12/2019   21:49:41 -> TP100 DEPARTURE started
+08/12/2019   21:49:41 -> TP444 ARRIVAL started
+08/12/2019   21:49:42 -> TP555 DEPARTURE started
+08/12/2019   21:49:42 -> TP022 ARRIVAL started
+08/12/2019   21:49:50 -> TP30 DEPARTURE concluded Pista P1
+08/12/2019   21:49:51 -> TP100 DEPARTURE concluded Pista P2
+08/12/2019   21:50:17 -> Fim do programa
+08/12/2019   21:50:17 -> Fim do programa
+08/12/2019   21:50:22 -> Inicio do programa
+08/12/2019   21:50:22 -> [0911] Gestor de Simulacao pronto! 
+08/12/2019   21:50:22 -> [0915] Torre de Controlo Ativa! 
+08/12/2019   21:50:28 -> WRONG COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+
+08/12/2019   21:50:28 -> WRONG COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+
+08/12/2019   21:50:28 -> WRONG COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+
+08/12/2019   21:50:30 -> Fim do programa
+08/12/2019   21:50:30 -> Fim do programa
+08/12/2019   21:50:32 -> Inicio do programa
+08/12/2019   21:50:32 -> [0922] Gestor de Simulacao pronto! 
+08/12/2019   21:50:32 -> [0926] Torre de Controlo Ativa! 
+08/12/2019   21:50:33 -> NEW COMMAND  ==>  DEPARTURE TP30 init: 5 takeoff: 13
+
+08/12/2019   21:50:33 -> NEW COMMAND  ==>  DEPARTURE TP100 init: 6 takeoff: 15
+
+08/12/2019   21:50:34 -> NEW COMMAND  ==>  DEPARTURE TP555 init: 7 takeoff: 17
+
+08/12/2019   21:50:35 -> TP30 DEPARTURE started
+08/12/2019   21:50:36 -> TP100 DEPARTURE started
+08/12/2019   21:50:37 -> TP555 DEPARTURE started
+08/12/2019   21:50:44 -> TP30 DEPARTURE concluded Pista P1
+08/12/2019   21:50:46 -> TP100 DEPARTURE concluded Pista P2
+08/12/2019   21:51:10 -> Fim do programa
+08/12/2019   21:51:10 -> Fim do programa
